@@ -30,7 +30,7 @@ namespace CombinedLettersProcessor
 
         static void Main(string[] args)
         {
-            string rootPath = @"D:\Jobs\CombinedLetters";
+            string rootPath = @"D:\Jobs\CombinedLetters"; //Please Specify the Root directory path (CombinedLetters) in this case
             string inputPath = Path.Combine(rootPath, "Input");
             string archivePath = Path.Combine(rootPath, "Archive");
             string outputPath = Path.Combine(rootPath, "Output");
