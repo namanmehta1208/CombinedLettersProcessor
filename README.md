@@ -12,8 +12,10 @@ Ensure that the directory structure is set up as follows:
 
 - CombinedLetters
    - Input
-   - Admission
-   - Scholarship
+     - Admission
+        - 'yyyymmdd' format folder
+     - Scholarship
+        - 'yyyymmdd' format folder
    - Archive
    - Output
 
